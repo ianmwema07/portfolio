@@ -1,4 +1,4 @@
-# portfolio
+# Portfolio
 #### This is a Portfolio Website
 #### By **Ian Kariuki**
 ## Description
