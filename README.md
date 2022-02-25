@@ -8,9 +8,9 @@
 * Clone it to your local machine
 * Right click on the index.html file and open with your browser
 ## Technologies Used
-[x] HTML
-[X] CSS
-[X] GIT/GITHUB
+[x] HTML.
+[X] CSS.
+[X] GIT/GITHUB.
 ## Support and contact details
 IAN KARIUKI ian.kariuki@student.moringa.com
 ### License
