@@ -38,3 +38,8 @@ body {
   color:#F6EEE0 ;
   margin:20px;
 }
+
+.home {
+  display:flex;
+  justify-content: center;
+}
