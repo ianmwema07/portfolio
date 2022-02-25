@@ -1,0 +1,40 @@
+/* 
+Desert sun : #A45C40
+Coral: #C38370
+Peach : #E4B7A0
+Cream : #F6EEE0 
+*/
+
+body {
+  margin:0;
+}
+
+
+
+.navbar {
+  overflow: hidden;
+  background-color: #A45C40;
+  position:fixed;
+  top:0;
+  width:100%;
+}
+
+.navbar ul {
+  list-style-type: none;
+  font-size: 20px;
+  margin-right:0px;
+}
+.navbar ul li a{
+  float:left;
+  text-decoration:none;
+  display: block;
+  color:#F6EEE0 ;
+  margin:15px;
+}
+
+.name {
+  float: right;
+  display: block;
+  color:#F6EEE0 ;
+  margin:20px;
+}
