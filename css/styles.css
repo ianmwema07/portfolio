@@ -114,16 +114,11 @@ body {
 }
 
 .html {
-  width: 50%;
-}
-
-.html img {
-  width: 70px;
-  padding-top: 30px;
+  width: 25%;
 }
 
 .css {
-  width: 50%;
+  width: 25%;
 }
 
 .contacts {
@@ -136,10 +131,11 @@ body {
 
 .contacts h1 {
   padding-top: 3.5em;
-  padding-bottom: 1em;
 }
 .contacts p {
   font-weight: 600;
   padding-bottom: 3.5em;
-  margin-top: 20px;
+}
+.telephone {
+  padding-bottom: 40px;
 }
