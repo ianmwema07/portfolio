@@ -8,12 +8,12 @@
 * Clone it to your local machine
 * Right click on the index.html file and open with your browser
 ## Technologies Used
-[x] HTML.
-[X] CSS.
-[X] GIT/GITHUB.
+* HTML.
+* CSS.
+* GIT/GITHUB.
 ## Support and contact details
-IAN KARIUKI ian.kariuki@student.moringa.com
-[Go to the Support Web Site](https://ianmwema07.github.io/portfolio/#home)
+* IAN KARIUKI ian.kariuki@student.moringa.com
+* [Click here to visit the live site](https://ianmwema07.github.io/portfolio/#home)
 ### License
 **The MIT License (MIT)**
 Copyright (c) 2022 **Ian Kariuki**
