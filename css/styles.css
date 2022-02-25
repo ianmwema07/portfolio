@@ -4,9 +4,11 @@ Coral: #C38370
 Peach : #E4B7A0
 Cream : #F6EEE0 
 */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;1,100&display=swap');
 
 body {
   margin:0;
+  font-family: 'Poppins', sans-serif;
 }
 
 
@@ -33,7 +35,8 @@ body {
   float:left;
   text-decoration:none;
   display: block;
-  color:#A45C40;
+  color:black;
+  font-weight: bold;
   margin:15px;
 }
 
@@ -58,6 +61,7 @@ body {
   width: 25em;
 }
 .introduction {
+  font-family: poppins;
   text-align: center;
   padding: 6em;
 }
